@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/theatre-activities/static/css/main.e5058cee.css",
-    "main.js": "/theatre-activities/static/js/main.fee62c1d.js",
+    "main.css": "/theatre-activities/static/css/main.73cc8353.css",
+    "main.js": "/theatre-activities/static/js/main.698beb9d.js",
     "static/js/977.1c5b7a3c.chunk.js": "/theatre-activities/static/js/977.1c5b7a3c.chunk.js",
     "static/js/732.65007c0d.chunk.js": "/theatre-activities/static/js/732.65007c0d.chunk.js",
     "static/js/453.f752f9c1.chunk.js": "/theatre-activities/static/js/453.f752f9c1.chunk.js",
     "index.html": "/theatre-activities/index.html",
-    "main.e5058cee.css.map": "/theatre-activities/static/css/main.e5058cee.css.map",
-    "main.fee62c1d.js.map": "/theatre-activities/static/js/main.fee62c1d.js.map",
+    "main.73cc8353.css.map": "/theatre-activities/static/css/main.73cc8353.css.map",
+    "main.698beb9d.js.map": "/theatre-activities/static/js/main.698beb9d.js.map",
     "977.1c5b7a3c.chunk.js.map": "/theatre-activities/static/js/977.1c5b7a3c.chunk.js.map",
     "732.65007c0d.chunk.js.map": "/theatre-activities/static/js/732.65007c0d.chunk.js.map",
     "453.f752f9c1.chunk.js.map": "/theatre-activities/static/js/453.f752f9c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5058cee.css",
-    "static/js/main.fee62c1d.js"
+    "static/css/main.73cc8353.css",
+    "static/js/main.698beb9d.js"
   ]
 }
